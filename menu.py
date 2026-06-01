@@ -7,4 +7,4 @@ def opcoes():
     print("5 - Ver extrato")
     print("6 - Render Juros (poupança)")
     print("0 - Sair")
-    return input("Opção: ").strip
+    return input("Opção: ")

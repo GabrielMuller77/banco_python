@@ -1,0 +1,18 @@
+{
+    "Gabriel": {
+        "Tipo": "Conta Corrente",
+        "Saldo": 2900.0,
+        "Extrato": [
+            "Dep\u00f3sito: R$5000.00",
+            "Saque: R$2000.00 | Taxa: R$100.00"
+        ]
+    },
+    "Arthur": {
+        "Tipo": "Conta Poupan\u00e7a",
+        "Saldo": 2012.0,
+        "Extrato": [
+            "Dep\u00f3sito: R$3000.00",
+            "Saque: R$1000.00"
+        ]
+    }
+}
